@@ -2,20 +2,20 @@
 
 Este repositório contém o código referente às atividades da disciplina SCC0216 - Modelagem Computacional em Grafos, ministrada no ICMC-USP durante o 3º semestre. As atividades foram implementadas na linguagem de programação C, utilizando as bibliotecas stdio.h e stdlib.h. Os conteúdos abordados ao longo do curso incluíram:
 
-## Atividade 1 - Grafos
+## Atividade 1
 ### Objetivos:
 - Implementação de grafos por meio de matriz de adjacência.
 
-## Atividade 2 - Grafos
+## Atividade 2
 ### Objetivos:
 - Implementação de grafos por meio de lista de adjacência.
 
-## Atividade 3 - Grafos
+## Atividade 3
 ### Tópicos:
 - Busca em Profundidade.
 - Caminho Crítico.
 
-## Atividade 4 - Grafos
+## Atividade 4
 ### Tópicos:
 - Algoritmo de Dijkstra.
 - Determinação do caminho com menor custo.
